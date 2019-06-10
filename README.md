@@ -1,2 +1,3 @@
 # LyricsApp
-A lyrics app with react
+A lyrics app with react using react hooks and bootstrap as the css library.
+
