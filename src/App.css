@@ -1,0 +1,22 @@
+.w-33 {
+	min-width: 33%;
+}
+
+.w-80 {
+	width: 80%;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+.overflow-ellipsis {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+button:focus,
+input:focus {
+	box-shadow: none !important ;
+}
